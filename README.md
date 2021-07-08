@@ -15,8 +15,6 @@
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/MATLAB-FF9959?style=flat-square&logo=MATLAB&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> &nbsp;  
 
-This is My [Portfolio](https://www.notion.so/Dumba-cd256d872d144678a35411be704053e5), Contact me! If you have any interest in me. 
-
 
 <!--
 **ghis22130/ghis22130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
